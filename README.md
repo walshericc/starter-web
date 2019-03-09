@@ -21,4 +21,4 @@ STILL more changes!
 
 ## Copyright
 
-2019 Eric Walsh
+2019 Eric Walsh. All rights reserved.
