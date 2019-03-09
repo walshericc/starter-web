@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work. Come on!
 
 Sample website with plenty of files for demos
 
+ONE more time...
+
 ## Deployment
 
 Let's deploy!
+
+I fucking hate you...
