@@ -13,3 +13,7 @@ ONE more time...
 Let's deploy!
 
 I fucking hate you...
+
+## Copyright
+
+2019 Eric Walsh
