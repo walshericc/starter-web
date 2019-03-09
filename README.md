@@ -15,6 +15,7 @@ Let's deploy!
 I fucking hate you...
 
 Go to hell!
+I want to die...
 
 ## Copyright
 
